@@ -6,7 +6,7 @@ This is a simple console application written in Python that allows you to conver
 
 1. Clone the repository or download the ZIP file.
 2. Run the application by executing the `main.py` script with Python 3.
-3. You can also download the JSON file exe from this link: [LINK](https://github.com/DLQuake/Unit-converter-python/releases/tag/Published)
+3. You can also download the JSON file and main.exe from this link: [LINK](https://github.com/DLQuake/Unit-converter-python/releases/tag/Published)
 ## Usage
 
 To use the application, simply run the `main.py` script in your terminal. You will be presented with a menu where you can select the type of unit you wish to convert and enter the value to be converted.
