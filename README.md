@@ -15,7 +15,7 @@ After selecting the units, the application will display the converted value alon
 
 ## Customization
 
-The application supports custom units of measurement defined in a JSON file. To add or modify units, simply edit the `units.json` file in the `data` directory. The file uses a simple key-value structure to define conversion ratios between units.
+The application supports custom units of measurement defined in a JSON file. To add or modify units, simply edit the `units.json`. The file uses a simple key-value structure to define conversion ratios between units.
 
 ## Requirements
 
