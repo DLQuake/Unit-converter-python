@@ -1,0 +1,13 @@
+{
+    "length": {
+        "centimeters": 1,
+        "inches": 2.54,
+        "feet": 30.48,
+        "meters": 100
+    },
+    "weight": {
+        "kilograms": 1,
+        "grams": 0.001,
+        "pounds": 0.453592
+    }
+}
