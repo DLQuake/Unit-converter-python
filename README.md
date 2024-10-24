@@ -5,6 +5,12 @@ This is a simple console application written in Python that allows you to conver
 ## Installation
 
 1. Clone the repository or download the ZIP file.
+
+    - ```bash
+      git clone https://github.com/DLQuake/Unit-converter-python.git
+      ```
+    - [ZIP](https://github.com/DLQuake/Unit-converter-python/archive/refs/heads/main.zip)
+
 2. Run the application by executing the `main.py` script with Python 3.
 3. You can also download the JSON file and main.exe from this link: [LINK](https://github.com/DLQuake/Unit-converter-python/releases/tag/Published)
 ## Usage
